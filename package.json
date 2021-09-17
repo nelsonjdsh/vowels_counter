@@ -1,0 +1,31 @@
+{
+  "name": "vowelscounternelsonsantos2309",
+  "version": "1.0.2",
+  "description": "Vowel Counter Library for Everyone to use! Made by Nelson Santos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonjdsh/vowels_counter.git"
+  },
+  "keywords": [
+    "vowels"
+  ],
+  "author": "Nelson Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonjdsh/vowels_counter/issues"
+  },
+  "homepage": "https://github.com/nelsonjdsh/vowels_counter#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
